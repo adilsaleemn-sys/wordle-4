@@ -1,1 +1,24 @@
-{"days":{"2026-10-22":{"answer":"RESET","date":"2026-10-22","meaning":"To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.","puzzle":1951},"2026-10-23":{"answer":"TRILL","date":"2026-10-23","meaning":"It names something associated with (music) A rapid alternation between an indicated note and the one above it as an ornament; in musical notation usually indicated with the letters tr written above the staff.","puzzle":1952}},"site":"wordlehiint.com","updated":"2026-10-24"}
+{
+ "days": {
+  "2026-10-22": {
+   "answer": "RESET",
+   "date": "2026-10-22",
+   "meaning": "To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.",
+   "puzzle": 1951
+  },
+  "2026-10-23": {
+   "answer": "TRILL",
+   "date": "2026-10-23",
+   "meaning": "It names something associated with (music) A rapid alternation between an indicated note and the one above it as an ornament; in musical notation usually indicated with the letters tr written above the staff.",
+   "puzzle": 1952
+  },
+  "2026-10-24": {
+   "date": "2026-10-24",
+   "puzzle": 1953,
+   "answer": "HOLEY",
+   "meaning": "It can be used when describing something that is having, or being full of, holes."
+  }
+ },
+ "site": "wordlehiint.com",
+ "updated": "2026-10-24"
+}
