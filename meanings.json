@@ -37,12 +37,18 @@
       "puzzle": 1957
     },
     "2026-10-29": {
-      "date": "2026-10-29",
-      "puzzle": 1958,
       "answer": "MOTOR",
-      "meaning": "It is a part inside a machine that creates movement by using energy, making things spin, move, or work."
+      "date": "2026-10-29",
+      "meaning": "It is a part inside a machine that creates movement by using energy, making things spin, move, or work.",
+      "puzzle": 1958
+    },
+    "2026-10-30": {
+      "answer": "SLIDE",
+      "date": "2026-10-30",
+      "meaning": "It refers to moving quietly and easily over a surface, as if carried along rather than walking.",
+      "puzzle": 1959
     }
   },
   "site": "wordlehiint.com",
-  "updated": "2026-10-29"
+  "updated": "2026-10-30"
 }
