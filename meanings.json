@@ -3,7 +3,7 @@
     "2026-10-22": {
       "answer": "RESET",
       "date": "2026-10-22",
-      "meaning": "To set something back to the state it started in \u2014 for example, restarting a device or a game so it begins again from its original settings.",
+      "meaning": "To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.",
       "puzzle": 1951
     },
     "2026-10-23": {
@@ -47,8 +47,14 @@
       "date": "2026-10-30",
       "meaning": "It refers to moving quietly and easily over a surface, as if carried along rather than walking.",
       "puzzle": 1959
+    },
+    "2026-10-31": {
+      "date": "2026-10-31",
+      "puzzle": 1960,
+      "answer": "YAHOO",
+      "meaning": "It is the happy cry someone gives when a long-awaited moment finally turns out well."
     }
   },
   "site": "wordlehiint.com",
-  "updated": "2026-10-30"
+  "updated": "2026-10-31"
 }
