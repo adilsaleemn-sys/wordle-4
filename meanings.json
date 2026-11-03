@@ -1,4 +1,6 @@
 {
+  "site": "wordlehiint.com",
+  "updated": "2026-11-03",
   "days": {
     "2026-10-22": {
       "answer": "RESET",
@@ -65,8 +67,12 @@
       "puzzle": 1962,
       "answer": "SCOOT",
       "meaning": "It is used for going somewhere in a hurry, with short, quick steps rather than a slow walk."
+    },
+    "2026-11-03": {
+      "date": "2026-11-03",
+      "puzzle": 1963,
+      "answer": "POUCH",
+      "meaning": "It is a compact bag-like holder, usually soft and closeable, meant for keeping small objects safe in one place."
     }
-  },
-  "site": "wordlehiint.com",
-  "updated": "2026-11-02"
+  }
 }
