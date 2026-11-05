@@ -1,6 +1,6 @@
 {
   "site": "wordlehiint.com",
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "days": {
     "2026-10-22": {
       "answer": "RESET",
@@ -79,6 +79,12 @@
       "puzzle": 1964,
       "answer": "NUTTY",
       "meaning": "It is used for a deep, savoury-sweet taste in food, much like the flavour left by browned seeds in a baked dish."
+    },
+    "2026-11-05": {
+      "date": "2026-11-05",
+      "puzzle": 1965,
+      "answer": "PARCH",
+      "meaning": "It can be used when talking about grain that is roasted lightly over heat until it turns dry and crisp."
     }
   }
 }
