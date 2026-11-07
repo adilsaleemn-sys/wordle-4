@@ -1,6 +1,6 @@
 {
   "site": "wordlehiint.com",
-  "updated": "2026-11-05",
+  "updated": "2026-11-07",
   "days": {
     "2026-10-22": {
       "answer": "RESET",
@@ -85,6 +85,18 @@
       "puzzle": 1965,
       "answer": "PARCH",
       "meaning": "It can be used when talking about grain that is roasted lightly over heat until it turns dry and crisp."
+    },
+    "2026-11-06": {
+      "date": "2026-11-06",
+      "puzzle": 1966,
+      "answer": "DRECK",
+      "meaning": "It is a word for rubbishy things that are considered useless and not worth keeping."
+    },
+    "2026-11-07": {
+      "date": "2026-11-07",
+      "puzzle": 1967,
+      "answer": "PRATE",
+      "meaning": "It is what happens when someone rambles on about little matters, talking and talking as if the words themselves were the point."
     }
   }
 }
