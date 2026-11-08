@@ -1,6 +1,6 @@
 {
   "site": "wordlehiint.com",
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "days": {
     "2026-10-22": {
       "answer": "RESET",
@@ -97,6 +97,12 @@
       "puzzle": 1967,
       "answer": "PRATE",
       "meaning": "It is what happens when someone rambles on about little matters, talking and talking as if the words themselves were the point."
+    },
+    "2026-11-08": {
+      "date": "2026-11-08",
+      "puzzle": 1968,
+      "answer": "FIRST",
+      "meaning": "It can point to the earliest moment or the leading place in a line, before anything else arrives."
     }
   }
 }
