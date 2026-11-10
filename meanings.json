@@ -3,7 +3,7 @@
     "2026-10-22": {
       "answer": "RESET",
       "date": "2026-10-22",
-      "meaning": "To set something back to the state it started in \u2014 for example, restarting a device or a game so it begins again from its original settings.",
+      "meaning": "To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.",
       "puzzle": 1951
     },
     "2026-10-23": {
@@ -107,8 +107,14 @@
       "date": "2026-11-09",
       "meaning": "It is used for earth that holds water and air in a good balance, so roots can spread easily and crops can thrive.",
       "puzzle": 1969
+    },
+    "2026-11-10": {
+      "date": "2026-11-10",
+      "puzzle": 1970,
+      "answer": "TRUCE",
+      "meaning": "It refers to a short break from battle that enemies agree to observe until a set moment passes."
     }
   },
   "site": "wordlehiint.com",
-  "updated": "2026-11-09"
+  "updated": "2026-11-10"
 }
