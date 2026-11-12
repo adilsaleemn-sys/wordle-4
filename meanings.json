@@ -3,7 +3,7 @@
     "2026-10-22": {
       "answer": "RESET",
       "date": "2026-10-22",
-      "meaning": "To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.",
+      "meaning": "To set something back to the state it started in \u2014 for example, restarting a device or a game so it begins again from its original settings.",
       "puzzle": 1951
     },
     "2026-10-23": {
@@ -109,12 +109,24 @@
       "puzzle": 1969
     },
     "2026-11-10": {
-      "date": "2026-11-10",
-      "puzzle": 1970,
       "answer": "TRUCE",
-      "meaning": "It refers to a short break from battle that enemies agree to observe until a set moment passes."
+      "date": "2026-11-10",
+      "meaning": "It refers to a short break from battle that enemies agree to observe until a set moment passes.",
+      "puzzle": 1970
+    },
+    "2026-11-11": {
+      "answer": "BLESS",
+      "date": "2026-11-11",
+      "meaning": "It describes offering a warm wish for another person's health, safety, and happiness.",
+      "puzzle": 1971
+    },
+    "2026-11-12": {
+      "answer": "KARAT",
+      "date": "2026-11-12",
+      "meaning": "It is the unit jewellers use when they talk about the fineness of gold, so a larger value means the gold is closer to being entirely pure.",
+      "puzzle": 1972
     }
   },
   "site": "wordlehiint.com",
-  "updated": "2026-11-10"
+  "updated": "2026-11-12"
 }
