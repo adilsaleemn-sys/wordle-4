@@ -3,7 +3,7 @@
     "2026-10-22": {
       "answer": "RESET",
       "date": "2026-10-22",
-      "meaning": "To set something back to the state it started in \u2014 for example, restarting a device or a game so it begins again from its original settings.",
+      "meaning": "To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.",
       "puzzle": 1951
     },
     "2026-10-23": {
@@ -125,8 +125,14 @@
       "date": "2026-11-12",
       "meaning": "It is the unit jewellers use when they talk about the fineness of gold, so a larger value means the gold is closer to being entirely pure.",
       "puzzle": 1972
+    },
+    "2026-11-13": {
+      "date": "2026-11-13",
+      "puzzle": 1973,
+      "answer": "MOXIE",
+      "meaning": "It is the inner strength that helps a person keep trying even when the odds are against them."
     }
   },
   "site": "wordlehiint.com",
-  "updated": "2026-11-12"
+  "updated": "2026-11-13"
 }
