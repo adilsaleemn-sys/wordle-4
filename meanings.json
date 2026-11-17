@@ -3,7 +3,7 @@
     "2026-10-22": {
       "answer": "RESET",
       "date": "2026-10-22",
-      "meaning": "To set something back to the state it started in \u2014 for example, restarting a device or a game so it begins again from its original settings.",
+      "meaning": "To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.",
       "puzzle": 1951
     },
     "2026-10-23": {
@@ -149,8 +149,14 @@
       "date": "2026-11-16",
       "meaning": "It can refer to speech that comes out slowly and lazily, with each word lingering in a smooth, easy rhythm rather than being spoken briskly.",
       "puzzle": 1976
+    },
+    "2026-11-17": {
+      "date": "2026-11-17",
+      "puzzle": 1977,
+      "answer": "ROAST",
+      "meaning": "It can refer to a cut of meat that has been cooked in an oven until it is juicy inside and browned on the outside."
     }
   },
   "site": "wordlehiint.com",
-  "updated": "2026-11-16"
+  "updated": "2026-11-17"
 }
