@@ -3,7 +3,7 @@
     "2026-10-22": {
       "answer": "RESET",
       "date": "2026-10-22",
-      "meaning": "To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.",
+      "meaning": "To set something back to the state it started in \u2014 for example, restarting a device or a game so it begins again from its original settings.",
       "puzzle": 1951
     },
     "2026-10-23": {
@@ -151,12 +151,18 @@
       "puzzle": 1976
     },
     "2026-11-17": {
-      "date": "2026-11-17",
-      "puzzle": 1977,
       "answer": "ROAST",
-      "meaning": "It can refer to a cut of meat that has been cooked in an oven until it is juicy inside and browned on the outside."
+      "date": "2026-11-17",
+      "meaning": "It can refer to a cut of meat that has been cooked in an oven until it is juicy inside and browned on the outside.",
+      "puzzle": 1977
+    },
+    "2026-11-18": {
+      "answer": "BLURT",
+      "date": "2026-11-18",
+      "meaning": "It is used for a remark that escapes in a sudden burst, before the speaker has had time to consider it.",
+      "puzzle": 1978
     }
   },
   "site": "wordlehiint.com",
-  "updated": "2026-11-17"
+  "updated": "2026-11-18"
 }
