@@ -3,7 +3,7 @@
     "2026-10-22": {
       "answer": "RESET",
       "date": "2026-10-22",
-      "meaning": "To set something back to the state it started in \u2014 for example, restarting a device or a game so it begins again from its original settings.",
+      "meaning": "To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.",
       "puzzle": 1951
     },
     "2026-10-23": {
@@ -173,8 +173,14 @@
       "date": "2026-11-20",
       "meaning": "It is the word for when something comes into being, such as a question or a difficulty that appears over time.",
       "puzzle": 1980
+    },
+    "2026-11-21": {
+      "answer": "STENT",
+      "date": "2026-11-21",
+      "meaning": "It is a slender tube fitted inside a blocked passage in the body so that fluid can move through it freely.",
+      "puzzle": 1981
     }
   },
   "site": "wordlehiint.com",
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
 }
