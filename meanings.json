@@ -3,7 +3,7 @@
     "2026-10-22": {
       "answer": "RESET",
       "date": "2026-10-22",
-      "meaning": "To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.",
+      "meaning": "To set something back to the state it started in \u2014 for example, restarting a device or a game so it begins again from its original settings.",
       "puzzle": 1951
     },
     "2026-10-23": {
@@ -179,8 +179,14 @@
       "date": "2026-11-21",
       "meaning": "It is a slender tube fitted inside a blocked passage in the body so that fluid can move through it freely.",
       "puzzle": 1981
+    },
+    "2026-11-22": {
+      "answer": "UPEND",
+      "date": "2026-11-22",
+      "meaning": "It can be used for a plan or a situation that is suddenly thrown into disorder by being turned over.",
+      "puzzle": 1982
     }
   },
   "site": "wordlehiint.com",
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
 }
