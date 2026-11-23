@@ -3,7 +3,7 @@
     "2026-10-22": {
       "answer": "RESET",
       "date": "2026-10-22",
-      "meaning": "To set something back to the state it started in \u2014 for example, restarting a device or a game so it begins again from its original settings.",
+      "meaning": "To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.",
       "puzzle": 1951
     },
     "2026-10-23": {
@@ -185,8 +185,14 @@
       "date": "2026-11-22",
       "meaning": "It can be used for a plan or a situation that is suddenly thrown into disorder by being turned over.",
       "puzzle": 1982
+    },
+    "2026-11-23": {
+      "date": "2026-11-23",
+      "puzzle": 1983,
+      "answer": "FILTH",
+      "meaning": "It describes the kind of thick, grimy dirt that builds up when something has not been cleaned for a long time."
     }
   },
   "site": "wordlehiint.com",
-  "updated": "2026-11-22"
+  "updated": "2026-11-23"
 }
