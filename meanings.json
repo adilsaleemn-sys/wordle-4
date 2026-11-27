@@ -3,7 +3,7 @@
     "2026-10-22": {
       "answer": "RESET",
       "date": "2026-10-22",
-      "meaning": "To set something back to the state it started in — for example, restarting a device or a game so it begins again from its original settings.",
+      "meaning": "To set something back to the state it started in \u2014 for example, restarting a device or a game so it begins again from its original settings.",
       "puzzle": 1951
     },
     "2026-10-23": {
@@ -187,30 +187,36 @@
       "puzzle": 1982
     },
     "2026-11-23": {
-      "date": "2026-11-23",
-      "puzzle": 1983,
       "answer": "FILTH",
-      "meaning": "It describes the kind of thick, grimy dirt that builds up when something has not been cleaned for a long time."
+      "date": "2026-11-23",
+      "meaning": "It describes the kind of thick, grimy dirt that builds up when something has not been cleaned for a long time.",
+      "puzzle": 1983
     },
     "2026-11-24": {
-      "date": "2026-11-24",
-      "puzzle": 1984,
       "answer": "SNEER",
-      "meaning": "It can describe the way a mouth curls when a person wants to show that they think something is silly or beneath them."
+      "date": "2026-11-24",
+      "meaning": "It can describe the way a mouth curls when a person wants to show that they think something is silly or beneath them.",
+      "puzzle": 1984
     },
     "2026-11-25": {
-      "date": "2026-11-25",
-      "puzzle": 1985,
       "answer": "SPICY",
-      "meaning": "It can describe a meal that brings a sharp, warming heat to the tongue."
+      "date": "2026-11-25",
+      "meaning": "It can describe a meal that brings a sharp, warming heat to the tongue.",
+      "puzzle": 1985
     },
     "2026-11-26": {
-      "date": "2026-11-26",
-      "puzzle": 1986,
       "answer": "TENSE",
-      "meaning": "It can describe a moment or a room filled with nervous energy, where everyone feels uneasy and alert."
+      "date": "2026-11-26",
+      "meaning": "It can describe a moment or a room filled with nervous energy, where everyone feels uneasy and alert.",
+      "puzzle": 1986
+    },
+    "2026-11-27": {
+      "answer": "SHEAF",
+      "date": "2026-11-27",
+      "meaning": "It refers to several stalks of ripe grain tied into one neat bundle in a field.",
+      "puzzle": 1987
     }
   },
   "site": "wordlehiint.com",
-  "updated": "2026-11-26"
+  "updated": "2026-11-27"
 }
